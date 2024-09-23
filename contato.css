@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(231, 227, 177);
+    }
+    nav{
+    margin-left: 400px;
+    }
+    h1 {
+        font-size: 3.0rem; /* Tamanho da fonte */
+        color: #120a01; /* Cor do texto */
+        text-align: center; /* Alinha o texto ao centro */
+    }
+    div {
+        margin-left: 8px;
+        width: 97%;
+        padding: 17px;
+        font-size: 1.0em;
+        background: hsl(56, 68%, 75%);
+        
+    }
+        a{
+            text-decoration: none;
+        }
+    .redes{
+        margin-left: 10px;
+        display: flex;
+        padding: 20px;
+    
+    }
+    a{
+    color: black;    
+    }
+    
+   .r1, .r2, .r3{
+    display: flex;
+    padding: 25px;
+    margin-top: 450px;
+    margin-left: 260px;
+    background: hsl(50, 53%, 68%);
+    border-radius: 12px;    
+   }
