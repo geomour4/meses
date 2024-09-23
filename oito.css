@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+nav, p { 
+    margin-left: 560px;    
+    }
+    h1 {
+        font-size: 2.5rem; /* Tamanho da fonte */
+        color: #120a01; /* Cor do texto */
+        text-align: center; /* Alinha o texto ao centro */
+    }
+    h2 {
+        font-size: 2.0rem; /* Tamanho da fonte */
+        color: #b8276f; /* Cor do texto */
+        text-align: center; /* Alinha o texto ao centro */
+    }
+    h3 {
+        font-size: 1.2rem; /* Tamanho da fonte */
+        color: #120e02; /* Cor do texto */
+        max-width: 990px; /* Alinha o texto ao centro */
+        margin-left: 280px;
+    }
+    h4 {
+        font-size: 1.2rem; /* Tamanho da fonte */
+        color: #120e02; /* Cor do texto */
+        max-width: 990px; /* Alinha o texto ao centro */
+        margin-left: 280px;
+    }
+    h5 {
+        font-size: 1.2rem; /* Tamanho da fonte */
+        color: #120e02; /* Cor do texto */
+        max-width: 990px; /* Alinha o texto ao centro */
+        margin-left: 280px;
+    }
+    h6 {
+        font-size: 1.2rem; /* Tamanho da fonte */
+        color: #120e02; /* Cor do texto */
+        max-width: 990px; /* Alinha o texto ao centro */
+        margin-left: 280px;
+    }
+    h6 {
+        font-size: 1.2rem; /* Tamanho da fonte */
+        color: #120e02; /* Cor do texto */
+        max-width: 990px; /* Alinha o texto ao centro */
+        margin-left: 280px;
+    }
+    h6 {
+        font-size: 1.2rem; /* Tamanho da fonte */
+        color: #120e02; /* Cor do texto */
+        max-width: 990px; /* Alinha o texto ao centro */
+        margin-left: 280px;
+    }
+    h6 {
+        font-size: 1.2rem; /* Tamanho da fonte */
+        color: #120e02; /* Cor do texto */
+        max-width: 990px; /* Alinha o texto ao centro */
+        margin-left: 280px;
+    }
+    .outubro{
+        display: block;
+        margin-left: 1px;
+        width: 100%;
+        word-break: normal;
+        height: 410px;
+        border-radius: 12px;
+        }
